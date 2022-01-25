@@ -27,8 +27,8 @@ function ContactPage() {
         <div className="contact-sect">
           <ContactItem
             icon={phone}
-            text1={"+257 7756110718"}
-            text2={"+0333 6782 8792"}
+            text1={"+970 123456789"}
+            text2={"+0970 0987654321"}
             title={"Phone"}
           />
           <ContactItem
