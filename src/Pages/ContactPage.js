@@ -39,8 +39,8 @@ function ContactPage() {
           />
           <ContactItem
             icon={location}
-            text1={"25 Paramount St, PN4 8H9 London"}
-            text2={"United Kingdom"}
+            text1={"Gaza"}
+            text2={"Gaza Strip"}
             title={"Address"}
           />
         </div>
